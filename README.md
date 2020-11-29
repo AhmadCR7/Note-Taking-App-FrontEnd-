@@ -7,4 +7,4 @@ running online: https://expo.io/@ahmad.afghan/projects/note-taking-app
 
 ## How to run the App locally: 
 1. Clone the project 
-2. Type npm install 
+2. Type  ```npm install```
