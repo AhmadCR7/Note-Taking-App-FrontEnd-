@@ -3,9 +3,9 @@ simple note taking app using react-native (Frontend Only)
 
 ## Instractions:
 # How to run the App online: 
-download Expo Cli app on your smart phone: https://expo.io/tools
+Download Expo Cli app on your smart phone: https://expo.io/tools
 
-use the given barcode to start the app: https://expo.io/@ahmad.afghan/projects/note-taking-app
+Use the given barcode to start the app: https://expo.io/@ahmad.afghan/projects/note-taking-app
 
 
 ## How to run the App locally: 
